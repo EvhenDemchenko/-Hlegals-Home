@@ -1,5 +1,5 @@
-const HEADER = document.querySelector('enter class')
-const EFFECT = document.querySelector('.enter class')
+const HEADER = document.querySelector('.header-botoom__nav')
+const EFFECT = document.querySelector('.header-nav__effect')
 
 const CLOSE = document.querySelector('.close').addEventListener('click',() => {
     HEADER.classList.remove('qqq')
